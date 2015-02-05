@@ -11,7 +11,7 @@ body {
 }
 
 .banner{
-margin-top: 10px;
+margin-top: 15px;
 }
 
 footer {
@@ -25,10 +25,12 @@ footer {
 
 .center {
     text-align:center;
+
 }
 
 .center form {
     display:inline-block;
+				margin-bottom:5000px;
 }
 
 #banniere{
@@ -40,5 +42,10 @@ footer {
 }
 
 #educeco{
-   margin-left:33%;
+	margin-left:33%;
+}
+
+#footer{
+		margin-top: 50px;
+		margin-bottom: 30px;
 }

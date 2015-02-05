@@ -25,6 +25,7 @@ footer {
 
 .center {
     text-align:center;
+
 }
 
 .center form {
@@ -40,5 +41,10 @@ footer {
 }
 
 #educeco{
-   margin-left:33%;
+	margin-left:33%;
+}
+
+#footer{
+		margin-top: 50px;
+		margin-bottom: 30px;
 }

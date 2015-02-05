@@ -79,9 +79,11 @@
         L’association Tournesol, reconnue d'Intérêt Général, a créé, à Paris, depuis septembre 2011, un établissement scolaire de trois classes à effectifs réduits (10 élèves maximum) permettant l’accueil d’élèves de 11 à 20 ans qui présentent des troubles des fonctions cognitives ou mentales.<br>
         Les élèves de Tournesol présentent des difficultés d'apprentissage liées à une inhibition intellectuelle (phobie, retrait, ...), à une déficience intellectuelle ou dont les causes sont d'origine psychologique. Les élèves de Tournesol sont capables d'échanges verbaux, de supporter une vie en petit groupe et d'apprendre à leur rythme.
 	      </p>
-				</div>
+				
         </div>
     </div>
 </div>
 
-<?php include_once('inc/footer.php');?>
+<?php include_once('inc/footer.php');
+?></div>
+</br>
