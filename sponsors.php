@@ -1,13 +1,13 @@
-<?php include_once('inc/bdd_conf.php'); 
-      include_once('inc/fonctions.php');?>
+<?php require_once('inc/bdd_conf.php'); 
+      require_once('inc/fonctions.php');?>
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once('inc/header.php'); ?>
+<?php require_once('inc/header.php'); ?>
 
 <body>
 
-    <?php include_once('inc/menu.php'); ?>
+    <?php require_once('inc/menu.php'); ?>
 
     <div class="container">
 
@@ -43,5 +43,5 @@
     <script src="js/bootstrap.js"></script>
 
 </body>
-<?php include_once('inc/footer.php'); ?>
+<?php require_once('inc/footer.php'); ?>
 </html>

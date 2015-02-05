@@ -4,6 +4,8 @@
 
 <footer>
     <hr />
-    <center>2011-2015 - Projet Augustine</center>
+    <div id="content">
+      2011-2015 - Projet Augustine
+    </div>
 </footer>
 </body>

@@ -6,12 +6,16 @@
 
 <?php include_once('inc/menu.php'); ?>
 <div class="container">
- <p><img src="img/banniere.jpg"  alt=""></p>
+
+<div class="central">
+
+ <div class=banner>
+ <p><img src="img/banniere_copie.jpg" id="banniere"  alt=""></p>
+ </div>
  <br/>
  <div class="row">
-    	<a href="http://www.vinci-melun.org"><img src="img/.jpg"></a>
-    	<a href="http://www."><img src="img/.jpg"></a>
-    	<a href="http://www.diderot.org"><img src="img/.jpg"></a>
+    	<a href="http://www.vinci-melun.org"><img src="img/logo-ldv.png"></a>
+			<a href="http://www.diderot.org"><img src="img/index.png"></a>
 </div>
 <!-- Présentation de Augustine -->
 <div class="row">
@@ -45,6 +49,7 @@
             <h2>Challenge EducEco</h2>
         </div>
         <div class="row">
+            <a href="http://www.educeco.net/"><img src="img/educeco.png" id="educeco"></a>
             <p>
                 Le but de ce challenge est de consommer le moins d'&eacutenergie possible pour parcourir 17,14Km avec
                 une vitesse moyenne <!--space-->
@@ -69,8 +74,12 @@
             <h2>Association Tournesol</h2>
         </div>
         <div class="row">
+         <a href="http://www.tournesol75.fr/accueil/"><img src="img/tournesol.jpg" id="tournesol"></a>
         <p>
-	    </p>
+        L’association Tournesol, reconnue d'Intérêt Général, a créé, à Paris, depuis septembre 2011, un établissement scolaire de trois classes à effectifs réduits (10 élèves maximum) permettant l’accueil d’élèves de 11 à 20 ans qui présentent des troubles des fonctions cognitives ou mentales.<br>
+        Les élèves de Tournesol présentent des difficultés d'apprentissage liées à une inhibition intellectuelle (phobie, retrait, ...), à une déficience intellectuelle ou dont les causes sont d'origine psychologique. Les élèves de Tournesol sont capables d'échanges verbaux, de supporter une vie en petit groupe et d'apprendre à leur rythme.
+	      </p>
+				</div>
         </div>
     </div>
 </div>
